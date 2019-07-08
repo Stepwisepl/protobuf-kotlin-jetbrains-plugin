@@ -1,2 +1,2 @@
-# protobuf-kotlin-jetbrains-plugin
-Plugin for generating protobuff annotations for Kotlin classes
+# protostuff-kotlin-jetbrains-plugin
+Plugin for generating Protostuff annotations for Kotlin classes

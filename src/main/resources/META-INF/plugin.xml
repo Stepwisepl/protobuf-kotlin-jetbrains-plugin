@@ -1,0 +1,12 @@
+<idea-plugin>
+
+    <id>pl.stepwise</id>
+    <name>Protostuff Kotlin Tag Generator</name>
+
+    <change-notes>Initial release of the protostuff Kotlin Tag Generator plugin.</change-notes>
+    <version>0.1-SNAPSHOT</version>
+    <vendor url="https://www.stepwise.pl" email="contact@stepwise.pl">Stepwise.</vendor>
+
+    <description>Generate protostuff tag annotations in Kotlin classes</description>
+
+</idea-plugin>
