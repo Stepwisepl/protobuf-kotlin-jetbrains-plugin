@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/Stepwisepl/protobuf-kotlin-jetbrains-plugin.svg?style=shield)](https://circleci.com/gh/Stepwisepl/protobuf-kotlin-jetbrains-plugin)
+[![CircleCI](https://circleci.com/gh/Stepwisepl/protostuff-kotlin-jetbrains-plugin.svg?style=shield)](https://circleci.com/gh/Stepwisepl/protostuff-kotlin-jetbrains-plugin)
 
 # protostuff-kotlin-jetbrains-plugin
 Plugin for generating Protostuff annotations for Kotlin classes
