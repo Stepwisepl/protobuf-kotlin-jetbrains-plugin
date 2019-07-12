@@ -9,4 +9,19 @@
 
     <description>Generate protostuff tag annotations in Kotlin classes</description>
 
+    <depends>org.jetbrains.kotlin</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <intentionAction>
+            <className>pl.stepwise.protostuff.ProtostuffTagGenerator</className>
+            <category>Protobuff</category>
+        </intentionAction>
+    </extensions>
+
+    <project-components>
+        <component>
+            <implementation-class>pl.stepwise.protostuff.ProtostuffTagGenerator</implementation-class>
+        </component>
+    </project-components>
+
 </idea-plugin>
